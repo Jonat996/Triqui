@@ -126,6 +126,7 @@ const Jugador2=(Jugador1)=>{
             for (let i = 0; i < Tabla.length; i++) {
                 for(let j = 0; i<Tabla[0]; i++){
                     Tabla[i][j]= contador+=1;
+                
                 }
                 
             }
